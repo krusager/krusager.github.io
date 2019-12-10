@@ -1,12 +1,12 @@
 ## Начало работы с GitHub
 
-### https://guides.github.com/
+https://guides.github.com/
 
 ## Docker repository
 https://hub.docker.com/repository/docker/krusager/docrep
 
 
-###  sum-of-two
+## Sum-of-two
 import random
 
 class SumOfTwo():
